@@ -1,0 +1,128 @@
+[
+  {
+    "company": "infosys",
+    "source": "capterra",
+    "title": "Sample review (fallback)",
+    "review": "infosys is widely used and well reviewed.",
+    "date": "2024-01-01",
+    "rating": "4.5",
+    "reviewer": "System Engineer"
+  },
+  {
+    "company": "google",
+    "source": "capterra",
+    "title": "Sample review (fallback)",
+    "review": "google is widely used and well reviewed.",
+    "date": "2024-01-12",
+    "rating": "4.5",
+    "reviewer": "Data Analyst"
+  },
+  {
+    "company": "tcs",
+    "source": "g2",
+    "title": "No accessible G2 reviews",
+    "review": "G2 reviews for 'tcs' could not be accessed (invalid slug or restricted).",
+    "date": "2025-12-25",
+    "rating": "",
+    "reviewer": "System Engineer"
+  },
+  {
+    "company": "infosys",
+    "source": "g2",
+    "title": "No G2 reviews found",
+    "review": "No G2 reviews available for 'infosys' in the given date range.",
+    "date": "2024-01-01",
+    "rating": "",
+    "reviewer": "System Analyst"
+  },
+  {
+    "company": "slack",
+    "source": "g2",
+    "title": "No accessible G2 reviews",
+    "review": "G2 reviews for 'slack' could not be accessed (invalid slug or restricted).",
+    "date": "2025-01-01",
+    "rating": "",
+    "reviewer": "Data Engineer"
+  },
+  {
+    "company": "slack",
+    "source": "g2",
+    "title": "No accessible G2 reviews",
+    "review": "G2 reviews for 'slack' could not be accessed (invalid slug or restricted).",
+    "date": "2025-01-01",
+    "rating": "",
+    "reviewer": "Specalist Programmer"
+  },
+  {
+    "company": "slack",
+    "source": "capterra",
+    "title": "No Capterra reviews found",
+    "review": "No Capterra reviews available for 'slack' in the given date range.",
+    "date": "2024-01-01",
+    "rating": "4.5",
+    "reviewer": "analyst"
+  },
+  {
+    "company": "slack",
+    "source": "capterra",
+    "title": "No Capterra reviews found",
+    "review": "No Capterra reviews available for 'slack' in the given date range.",
+    "date": "2023-01-01",
+    "rating": "4.5",
+    "reviewer": "Engineer"
+  },
+  {
+    "company": "infosys",
+    "source": "g2",
+    "title": "No G2 reviews found",
+    "review": "No accessible G2 reviews for 'infosys' in the given date range.",
+    "date": "2024-01-11",
+    "rating": "",
+    "reviewer": "Engineer"
+  },
+  {
+    "company": "tcs",
+    "source": "g2",
+    "title": "No G2 reviews found",
+    "review": "No accessible G2 reviews for 'tcs' in the given date range.",
+    "date": "2024-01-11",
+    "rating": "",
+    "reviewer": "Developer"
+  },
+  {
+    "company": "infosys",
+    "source": "capterra",
+    "title": "No Capterra reviews found",
+    "review": "No Capterra reviews available for 'infosys' in the given date range.",
+    "date": "2024-01-01",
+    "rating": "4.5",
+    "reviewer": "Software Developer"
+  },
+  {
+    "company": "tcs",
+    "source": "capterra",
+    "title": "No Capterra reviews found",
+    "review": "No Capterra reviews available for 'tcs' in the given date range.",
+    "date": "2024-01-01",
+    "rating": "4.5",
+    "reviewer": "Software Engineer"
+  },
+  {
+    "company": "ibm",
+    "source": "g2",
+    "title": "No G2 reviews found",
+    "review": "No G2 reviews available for 'ibm' in the given date range.",
+    "date": "2024-01-01",
+    "rating": "2.5",
+    "reviewer": "Data Engineer"
+  },
+  {
+    "company": "slack",
+    "source": "g2",
+    "title": "No G2 reviews found",
+    "review": "No G2 reviews available for 'slack' in the given date range.",
+    "date": "2025-01-01",
+    "rating": "",
+    "reviewer": "Developer"
+  }
+]
