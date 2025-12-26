@@ -34,10 +34,10 @@ python review_scraper.py
 
 step-5:
 Enter details when prompted:
-*Company name (slug):
-*Source (g2 / capterra / trustradius):
-*Start date (YYYY-MM-DD):
-*End date (YYYY-MM-DD):
+* Company name (slug):
+* Source (g2 / capterra / trustradius):
+* Start date (YYYY-MM-DD):
+* End date (YYYY-MM-DD):
 
 step-6:
 After that the output will looks like that in json file
